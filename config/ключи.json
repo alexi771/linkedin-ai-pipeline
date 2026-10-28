@@ -1,0 +1,22 @@
+{
+  "GEO": {"рубрика": "ИИ-поиск и GEO", "x": "\"generative engine optimization\" OR GEO (ChatGPT OR LLM OR \"AI search\")"},
+  "AEO": {"рубрика": "ИИ-поиск и GEO", "x": "\"answer engine optimization\" OR (AEO (ChatGPT OR LLM OR SEO))"},
+  "AI search": {"рубрика": "ИИ-поиск и GEO", "x": "\"AI search\""},
+  "AI Overviews / AI Mode": {"рубрика": "ИИ-поиск и GEO", "x": "\"AI Overviews\" OR \"AI Mode\""},
+  "SEO + AI": {"рубрика": "ИИ-поиск и GEO", "x": "SEO (ChatGPT OR LLM OR \"AI\")"},
+  "ChatGPT ads / shopping": {"рубрика": "ИИ-поиск и GEO", "x": "\"ChatGPT ads\" OR \"ChatGPT shopping\" OR \"ads in ChatGPT\""},
+  "Perplexity": {"рубрика": "ИИ-поиск и GEO", "x": "Perplexity (brands OR search OR ads OR Comet)"},
+  "Agentic commerce": {"рубрика": "ИИ-поиск и GEO", "x": "\"agentic commerce\" OR \"agentic checkout\" OR \"AI agents\" shopping"},
+  "AI UGC / AI ads": {"рубрика": "ИИ-контент и инструменты", "x": "\"AI UGC\" OR \"AI ads\" OR \"AI avatars\""},
+  "AI video": {"рубрика": "ИИ-контент и инструменты", "x": "Veo OR Sora OR Kling OR Seedance"},
+  "AI content": {"рубрика": "ИИ-контент и инструменты", "x": "\"AI content\" OR \"AI-generated content\""},
+  "AI agents": {"рубрика": "ИИ-контент и инструменты", "x": "\"AI agents\" (marketing OR growth OR business)"},
+  "Claude / ChatGPT for marketing": {"рубрика": "ИИ-контент и инструменты", "x": "(Claude OR ChatGPT) (marketing OR marketers OR growth)"},
+  "Content distribution": {"рубрика": "ИИ-контент и инструменты", "x": "distribution (founders OR startup) (AI OR content)"},
+  "Founders + AI": {"рубрика": "стартапы", "x": "founders AI (launch OR startup)"},
+  "Vibe coding": {"рубрика": "стартапы", "x": "\"vibe coding\""},
+  "Startup GTM": {"рубрика": "стартапы", "x": "\"go-to-market\" OR GTM (startup OR founders)"},
+  "Y Combinator": {"рубрика": "стартапы", "x": "\"Y Combinator\" OR YC (AI OR startups)"},
+  "China AI": {"рубрика": "Китай", "x": "DeepSeek OR Qwen OR Doubao OR Kimi"},
+  "China brands / AI": {"рубрика": "Китай", "x": "China (brands OR ecommerce OR \"AI search\")"}
+}
